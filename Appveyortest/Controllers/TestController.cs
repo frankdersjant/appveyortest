@@ -13,5 +13,10 @@ namespace Appveyortest.Controllers
         {
             return View();
         }
+
+        public ActionResult Branches()
+        {
+            return View();
+        }
     }
 }
